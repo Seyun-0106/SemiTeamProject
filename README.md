@@ -16,10 +16,10 @@
 - 정우준  
 
 ### 📌 기술
-- HTML, CSS, JavaScript, Ajax, jQuery
-- Java, Spring, MyBatis
-- Mysql, Apache Tomcat
-- GitHub, Spring Tools4
+- HTML, CSS, Bootstrap, JavaScript, Ajax, jQuery
+- Java, SpringBoot(Gradle), Apache Tomcat
+- Mysql, MyBatis
+- GitHub
 
 ### 📌 주요 기능
 <ul>
@@ -175,20 +175,19 @@
 <br />
 ▸ 이미지, 이름, 스타일, 성별, 온도, 날씨 정보 입력
 <br />
-&nbsp;- 음식 수정
+&nbsp;- 코디 수정
 <br />
-▸ 유효성 검사
+▸ 이미지, 이름, 스타일, 성별, 온도, 날씨 정보 수정
+<br />
+ &nbsp;- 코디 삭제
 <br />
 </ul>
 </li>
 </ul>
 
-### 📌 문제 해결!
-<p>✅ 카카오맵 api에서 가게 정보를 가져와 리뷰 서비스를 제공하려고 했는데 정보를 가져와 가공하는 데  어려움을 겪음 <br/>
- -> 배웠던 것을 토대로 복습하고 강사님께 조언을 구하여 해결</p><br />
-<p>✅ db를 처리하는데 있어서 페이징 처리를 하지 않아서 프로그램이 비효율적으로 처리된 경험이 있었고 이를 피드백받아 수정한 경우가 있습니다. 
-</p><br/>
-<p>✅ 비동기식 처리(ajax)를 하는데 코드 처리 순서가 정해져 있지 않다는 점을 깨닳았고 앞으로는 이점은 유의하여 비동기 처리를 해야한다는 점을 알았습니다(ajax에 순서를 넣어서도 처리 가능)
-</p><br/>
+### 📌 나의 역할
+<p>✅ 코디 사용자 페이지 모든 백엔드 기능 구현(DB 설계, Controller, DAO, VO 등)</p>
+<p>✅ 코디 관리자 페이지 모든 백엔드 기능 구현(코디 추가, 수정, )</p>
+<p>✅ 관리자 페이지 css 통일 및 디자인 피드백</p>
 
 
